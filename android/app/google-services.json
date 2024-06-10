@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013520523003",
+    "project_id": "book-vere",
+    "storage_bucket": "book-vere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013520523003:android:c758696720c16a52219a5e",
+        "android_client_info": {
+          "package_name": "com.example.isdfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ68iBXyKMj3OVFfqj2Htw1pWjTCWSaag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
