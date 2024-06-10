@@ -31,4 +31,4 @@ and when the user taps on one of the buttons on top with the type, it takes us t
 showing the books of this type:
 ![Screenshot_20240610_144934.png](Screenshot_20240610_144934.png)
 and the profile page shows the name, profile images, and books uploaded by the user
-![Screenshot_20240610_152548.png](Screenshot_20240610_152548.png)
+<img alt="Screenshot_20240610_152548.png" height="200" src="Screenshot_20240610_152548.png" width="100"/>
